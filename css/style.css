@@ -1,0 +1,38 @@
+body {
+  background-image: url("http://i436.photobucket.com/albums/qq81/roman-2009/407724_159899664120303_142198545890415_225761_919181729_n.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+}
+
+.sidebar {
+  margin-top: 25%;
+  position: absolute;
+  /*float: left;*/
+  background-color: rgba(0,0,0,0.5);
+  width: 200px;
+  padding: 10px;
+  opacity: 50;
+  color: white;
+}
+
+.column {
+  width: 32%;
+  text-align: center;
+  display: inline-block;
+  margin: 0 auto;
+  border: 1px solid blue;
+  position: relative;
+  top: 800px;
+  background-color:
+}
+
+.container {
+  margin: 0 auto;
+  border: 1px solid blue;
+  width: 80%;
+  height: 100vh;
+}
